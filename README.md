@@ -239,7 +239,7 @@ This project is **proprietary and confidential**. The code is made publicly visi
 
 **All Rights Reserved** - Unauthorized use, copying, modification, or distribution is strictly prohibited.
 
-For commercial licensing inquiries: licensing@wead.io
+For commercial licensing inquiries: licensing@wead.info
 
 See the [LICENSE](LICENSE) file for complete terms and conditions.
 
