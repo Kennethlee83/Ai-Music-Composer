@@ -4,7 +4,7 @@
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-Instead, please report them via email to security@wead.io
+Instead, please report them via email to security@wead.info
 
 ## Supported Versions
 
