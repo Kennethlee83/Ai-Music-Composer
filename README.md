@@ -231,7 +231,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 - No custodial wallet functions
 - Regular security audits
 
-**Found a security issue?** Please email security@wead.io instead of creating a public issue.
+**Found a security issue?** Please email security@wead.info instead of creating a public issue.
 
 ## 📄 License
 
