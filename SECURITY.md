@@ -28,7 +28,7 @@ Instead, please report them via email to security@wead.io
 
 ## Bug Bounty Program
 
-We offer rewards for valid security findings. Contact security@wead.io for details.
+We offer rewards for valid security findings. Contact security@wead.info for details.
 
 ---
 
