@@ -248,7 +248,7 @@ See the [LICENSE](LICENSE) file for complete terms and conditions.
 - **Website**: [weadcomposer.info](https://weadcomposer.info)
 - **Twitter**: [@WeADPlatform](https://twitter.com/WeADPlatform)
 - **Telegram**: [t.me/WeADCommunity](https://t.me/WeADCommunity)
-- **Email**: info@wead.io
+- **Email**: radiojack31@gmail.com
 
 ## 🙏 Acknowledgments
 
