@@ -79,7 +79,6 @@ All need BSCScan verification to remove Binance warnings!
 REPOSITORY IS SECURE
 ========================================
 
-✅ Suno information completely hidden
 ✅ No private keys
 ✅ No API credentials
 ✅ Proprietary license applied
