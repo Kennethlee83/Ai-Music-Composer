@@ -40,12 +40,6 @@ Documentation:
 ✅ env.example (NO secrets!)
 ✅ .gitignore (comprehensive)
 
-========================================
-🔒 SUNO INFORMATION - HIDDEN! ✓
-========================================
-
-✅ NO Suno API keys in repository
-✅ NO Suno URLs exposed
 ✅ Generic "AI Music API" only
 ✅ env.example says "contact licensing@wead.io"
 
