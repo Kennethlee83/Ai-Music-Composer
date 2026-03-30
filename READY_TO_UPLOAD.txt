@@ -91,7 +91,6 @@ All 4 need verification to remove Binance warnings!
 🛡️ SECURITY STATUS
 ========================================
 
-✅ Suno info COMPLETELY HIDDEN
 ✅ No private keys
 ✅ No API credentials  
 ✅ Proprietary license applied
