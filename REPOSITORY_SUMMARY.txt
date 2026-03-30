@@ -48,19 +48,6 @@ Documentation:
 ✅ env.example (NO secrets!)
 
 ========================================
-WHAT'S PROTECTED (NOT INCLUDED)
-========================================
-
-❌ .env.local files (with real API keys)
-❌ Suno API information (HIDDEN as requested!)
-❌ Private keys
-❌ Generated music files
-❌ User data
-❌ Community data folder
-❌ node_modules
-❌ .next build folder
-
-========================================
 KEY FEATURES
 ========================================
 
