@@ -103,7 +103,6 @@ This will remove the Binance security warning!
 SECURITY
 ========================================
 
-✅ All Suno API info HIDDEN
 ✅ No private keys included
 ✅ Proprietary license applied
 ✅ .gitignore comprehensive
